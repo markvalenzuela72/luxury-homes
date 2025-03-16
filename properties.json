@@ -1,0 +1,46 @@
+{
+  "properties": [
+    {
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "propertyType": "Apartment",
+      "location": "Downtown",
+      "propertyTitle": "Luxury Apartment",
+      "propertyPrice": "7,000,000",
+      "amenities": [
+        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
+        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
+      ]
+    },
+    {
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "propertyType": "Apartment",
+      "location": "Downtown",
+      "propertyTitle": "Luxury Apartment",
+      "propertyPrice": "7,000,000",
+      "amenities": [
+        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
+        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
+      ]
+    },
+    {
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "propertyType": "Apartment",
+      "location": "Downtown",
+      "propertyTitle": "Luxury Apartment",
+      "propertyPrice": "7,000,000",
+      "amenities": [
+        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
+        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
+      ]
+    }
+  ]
+}
