@@ -1,45 +1,50 @@
 {
   "properties": [
     {
+      "listedDate": "2025-03-13",
       "images": [
         "https://example.com/image1.jpg",
         "https://example.com/image2.jpg"
       ],
-      "propertyType": "Apartment",
-      "location": "Downtown",
-      "propertyTitle": "Luxury Apartment",
-      "propertyPrice": "7,000,000",
+      "type": "Apartment",
+      "location": "Burj Vista Tower 1, Downtown Dubai",
+      "title": "Luxury Apartment",
+      "price": "7,000,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1816
+      },
       "amenities": [
-        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
-        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
-      ]
-    },
-    {
-      "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
-      ],
-      "propertyType": "Apartment",
-      "location": "Downtown",
-      "propertyTitle": "Luxury Apartment",
-      "propertyPrice": "7,000,000",
-      "amenities": [
-        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
-        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
-      ]
-    },
-    {
-      "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
-      ],
-      "propertyType": "Apartment",
-      "location": "Downtown",
-      "propertyTitle": "Luxury Apartment",
-      "propertyPrice": "7,000,000",
-      "amenities": [
-        { "amenityIcon": "icon-1", "amenityTitle": "Gym" },
-        { "amenityIcon": "icon-2", "amenityTitle": "Pool" }
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
       ]
     }
   ]

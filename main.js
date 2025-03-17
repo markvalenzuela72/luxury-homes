@@ -15,3 +15,10 @@ function propertiesData() {
         }
     };
 }
+
+function daysAgo(date) {
+    const listedDate = new Date(date);
+    const currentDate = new Date();
+    const diffTime = Math.abs(currentDate - listedDate);
+    return Math.ceil(diffTime / (1000 * 60 * 60 * 24)); // Convert ms to days
+}
