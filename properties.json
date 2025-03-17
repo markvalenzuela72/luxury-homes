@@ -41,10 +41,6 @@
           "title": "security"
         },
         {
-          "icon": "icons/security.svg",
-          "title": "security"
-        },
-        {
           "icon": "icons/wardrobe.svg",
           "title": "Builtin Wardrobe"
         }
@@ -85,10 +81,6 @@
         {
           "icon": "icons/private-garden.svg",
           "title": "Private Garden"
-        },
-        {
-          "icon": "icons/security.svg",
-          "title": "security"
         },
         {
           "icon": "icons/security.svg",
@@ -141,10 +133,6 @@
           "title": "security"
         },
         {
-          "icon": "icons/security.svg",
-          "title": "security"
-        },
-        {
           "icon": "icons/wardrobe.svg",
           "title": "Builtin Wardrobe"
         }
@@ -185,10 +173,6 @@
         {
           "icon": "icons/private-garden.svg",
           "title": "Private Garden"
-        },
-        {
-          "icon": "icons/security.svg",
-          "title": "security"
         },
         {
           "icon": "icons/security.svg",
@@ -241,10 +225,6 @@
           "title": "security"
         },
         {
-          "icon": "icons/security.svg",
-          "title": "security"
-        },
-        {
           "icon": "icons/wardrobe.svg",
           "title": "Builtin Wardrobe"
         }
@@ -285,10 +265,6 @@
         {
           "icon": "icons/private-garden.svg",
           "title": "Private Garden"
-        },
-        {
-          "icon": "icons/security.svg",
-          "title": "security"
         },
         {
           "icon": "icons/security.svg",
@@ -341,10 +317,6 @@
           "title": "security"
         },
         {
-          "icon": "icons/security.svg",
-          "title": "security"
-        },
-        {
           "icon": "icons/wardrobe.svg",
           "title": "Builtin Wardrobe"
         }
@@ -391,10 +363,6 @@
           "title": "security"
         },
         {
-          "icon": "icons/security.svg",
-          "title": "security"
-        },
-        {
           "icon": "icons/wardrobe.svg",
           "title": "Builtin Wardrobe"
         }
@@ -435,10 +403,6 @@
         {
           "icon": "icons/private-garden.svg",
           "title": "Private Garden"
-        },
-        {
-          "icon": "icons/security.svg",
-          "title": "security"
         },
         {
           "icon": "icons/security.svg",
