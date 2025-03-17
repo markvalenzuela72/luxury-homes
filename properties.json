@@ -3,18 +3,421 @@
     {
       "listedDate": "2025-03-13",
       "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-3.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-1.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-1.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image10-8.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image11-3.jpg"
       ],
       "type": "Apartment",
-      "location": "Burj Vista Tower 1, Downtown Dubai",
-      "title": "Luxury Apartment",
+      "location": "Sh Mohammed Bin Rashid Blvd - Downtown Dubai",
+      "title": "Full Burj View | VOT | Luxurious Finishing",
       "price": "7,000,000",
       "details": {
         "bedRooms": 2,
         "bathrooms": 2,
         "parking": 1,
         "propertySize": 1816
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-13",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image10-7.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-5.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-8.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-8.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-8.jpg"
+      ],
+      "type": "Apartment",
+      "location": "Emaar Blvd - Downtown Dubai ",
+      "title": "High Floor | Tower 1 | Burj Khalifa View",
+      "price": "4,900,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1816
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-13",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image14.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-2.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-1.jpeg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-1.jpeg"
+      ],
+      "type": "Apartment",
+      "location": "Ras Al Khor - Dubai Creek Harbour - Dubai",
+      "title": "Well Maintained | Exclusive | Vacant",
+      "price": "2,600,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1816
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-13",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-4.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-7.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-7.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-7.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-8.jpg"
+      ],
+      "type": "Apartment",
+      "location": "Ras Al Khor - Dubai Creek Harbour",
+      "title": "Prime Location | Sunset Sea View | Fully Furnished",
+      "price": "3,300,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1816
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-15",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-3.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-5.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-6.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-6.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-6.jpg"
+      ],
+      "type": "Apartment",
+      "location": "Dubai Hills Estate",
+      "title": "3br Apartment | Prime Location | Off-Plan",
+      "price": "4,250,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1816
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-16",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-4.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-5.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-5.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-5.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image6-4.jpg"
+      ],
+      "type": "Apartment",
+      "location": "Wadi Al Safa 5 - Dubai",
+      "title": "3BR Apartment | Prime Location | Payment Plan",
+      "price": "3,300,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 1773
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-16",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-2.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image2-3.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-4.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-4.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-4.jpg"
+      ],
+      "type": "Villa",
+      "location": "Dubai Investments Park - Dubai",
+      "title": "Off Plan Resale | Luxury Villa | Handover Soon",
+      "price": "2,050,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 846
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-16",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image1-1.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image3-1.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image4-1.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image5-1.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/10/image7-1.jpg"
+      ],
+      "type": "Villa",
+      "location": "Deira - Dubai",
+      "title": "Next to Metro Station | Rented | Hight Roi",
+      "price": "490,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 2748
+      },
+      "amenities": [
+        {
+          "icon": "icons/central-ac.svg",
+          "title": "Central A/C"
+        },
+        {
+          "icon": "icons/balcony.svg",
+          "title": "Balcony"
+        },
+        {
+          "icon": "icons/pool.svg",
+          "title": "Shared Pool"
+        },
+        {
+          "icon": "icons/private-garden.svg",
+          "title": "Private Garden"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/security.svg",
+          "title": "security"
+        },
+        {
+          "icon": "icons/wardrobe.svg",
+          "title": "Builtin Wardrobe"
+        }
+      ]
+    },
+    {
+      "listedDate": "2025-03-16",
+      "images": [
+        "https://luxuryhomesrealestate.ae/storage/2024/09/image1-20.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/09/image2-18.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/09/image3-20.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/09/image4-17.jpg",
+        "https://luxuryhomesrealestate.ae/storage/2024/09/image5-22.jpg"
+      ],
+      "type": "Apartment",
+      "location": "Dubai Investments Park - Dubai",
+      "title": "Low Floor | Golf Views | Roomy Layout | High ROI",
+      "price": "2,500,000",
+      "details": {
+        "bedRooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "propertySize": 846
       },
       "amenities": [
         {
